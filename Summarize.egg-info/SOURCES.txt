@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+Summarize.egg-info/PKG-INFO
+Summarize.egg-info/SOURCES.txt
+Summarize.egg-info/dependency_links.txt
+Summarize.egg-info/top_level.txt

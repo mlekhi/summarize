@@ -1,0 +1,29 @@
+[build-system]
+requires = [
+    "setuptools",
+    "wheel"
+]
+
+[project]
+name = "Explain"
+version = "0.0.1"
+authors = [
+  { name="Maya Lekhi", email="maya.lekhi1@gmail.com" },
+]
+description = "The quickest solution for repository analysis"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "openai",
+    "python-dotenv",
+    "requests"
+]
+
+[project.urls]
+Homepage = "https://github.com/mlekhi/summarize"
+Issues = "https://github.com/mlekhi/summarize/issues"
