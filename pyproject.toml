@@ -5,7 +5,7 @@ requires = [
 ]
 
 [project]
-name = "Explain"
+name = "Summarize-Repo"
 version = "0.0.1"
 authors = [
   { name="Maya Lekhi", email="maya.lekhi1@gmail.com" },

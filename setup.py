@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Explain",
+    name="Summarize-Repo",
     version="0.0.1",
     author="Maya Lekhi",
     author_email="maya.lekhi1@gmail.com",

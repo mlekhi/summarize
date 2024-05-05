@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Summarize_Repo.egg-info/PKG-INFO
+Summarize_Repo.egg-info/SOURCES.txt
+Summarize_Repo.egg-info/dependency_links.txt
+Summarize_Repo.egg-info/requires.txt
+Summarize_Repo.egg-info/top_level.txt
