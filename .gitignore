@@ -1,1 +1,4 @@
-src/summarize/test
+src/summarize-repo/test
+dist
+build
+Summarize_Repo.egg-info

@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.py
-xysfhsj.egg-info/PKG-INFO
-xysfhsj.egg-info/SOURCES.txt
-xysfhsj.egg-info/dependency_links.txt
-xysfhsj.egg-info/requires.txt
-xysfhsj.egg-info/top_level.txt
